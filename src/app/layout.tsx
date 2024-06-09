@@ -29,7 +29,7 @@ export default function RootLayout({
           fontSans.variable
         )}
       >
-        <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        <main className="flex min-h-screen flex-col items-center justify-between p-10 sm:p-24">
           <Header />
           {children}
           <Navigation />

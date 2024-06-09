@@ -35,7 +35,7 @@ export default function Mint() {
   );
 
   return (
-    <div className="sm:w-full lg:w-1/2 my-10">
+    <div className="w-full sm:w-1/2 lg:w-2/3 my-10">
       <Card>
         <CardHeader className="mb-6">
           <CardTitle>RTekk&apos;s NFT</CardTitle>
